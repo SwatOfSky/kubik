@@ -1,0 +1,25 @@
+.top{
+	background: #2B1CF5;
+	transform: skew(15deg, 15deg) rotate(-65deg);
+}
+.additional{
+		background: #2B1CF5;
+		transform: translate(30px, 15px);
+
+}
+.left{
+	background: #20ECFA;
+	transform: rotate(15deg) skew(15deg, 15deg) translate(-10px, 45px); 
+}
+.right{
+	background: #27E634;
+	transform: rotate(-15deg) skew(-15deg, -15deg) translate(40px, 60px);
+}
+.side{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
+.cube{
+	position: relative;
+}
